@@ -1,0 +1,15 @@
+{
+  "name": "pixijs_feat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "chromedriver": "^2.30.1",
+    "mocha": "^3.4.2",
+    "selenium-webdriver": "^3.4.0"
+  }
+}
